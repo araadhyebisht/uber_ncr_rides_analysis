@@ -6,6 +6,7 @@ This is an exploratory data analysis (EDA) project looking at a dataset of 150,0
 Total Gross Booking Value (GBV) in the dataset: ₹5.18 Crore (~₹51.8M)
 
 Tools Used:
+
 • Python (Pandas for heavy lifting) 
 
 • Seaborn & Matplotlib for visualizations 
