@@ -13,7 +13,7 @@ Tools Used:
 
 • A bit of manual mapping (using Google/Gemini) to group 100+ raw neighborhood names into 8 actual NCR zones (South Delhi, Noida, Gurgaon New City, etc.) for the route analysis to make sense
 
-📊 The Real Business Insights
+📊 The Business Insights
 
 • We have an "Auto" supply problem: Auto rickshaws are the most popular vehicle choice for completed rides (nearly 25%). But they also have the highest rate of "No Driver Found" errors (over 25% of that category). The demand is there, but the fleet supply isn't keeping up.
 
